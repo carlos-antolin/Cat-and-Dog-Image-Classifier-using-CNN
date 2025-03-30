@@ -1,4 +1,4 @@
-# Machine Learning with Python - Cats vs Dogs Image Classification
+# Cat and Dog Image Classifier using CNN
 
 This project is part of the **Machine Learning with Python Certification** offered by freeCodeCamp. The objective of the project is to create a Convolutional Neural Network (CNN) model that classifies images of cats and dogs using TensorFlow 2.0 and Keras. The model is trained to identify and classify the images with at least 63% accuracy.
 

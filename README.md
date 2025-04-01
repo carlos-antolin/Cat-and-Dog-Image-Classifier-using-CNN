@@ -11,14 +11,6 @@ In this project, we:
 - Train and validate the model on a dataset of labeled images of cats and dogs.
 - Evaluate the model’s accuracy on a test dataset.
 
-The project involves:
-
-- Loading the dataset and performing basic data preprocessing.
-- Applying data augmentation techniques to improve model generalization.
-- Building the CNN model architecture and compiling it.
-- Training the model and evaluating its performance.
-- Visualizing results with training/validation accuracy and loss.
-
 ## Dataset
 
 The dataset used in this project is a collection of images of cats and dogs. The data has been split into the following directories:
